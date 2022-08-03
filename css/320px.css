@@ -38,7 +38,7 @@
     left: 16px;
     top: 24px;
     border-radius: 20px;
-    background-image: url(./img/burger.svg);
+    background-image: url(/img/burger.svg);
   }
   .menu__group {
     position: absolute;
@@ -63,7 +63,7 @@
     left: 208px;
     top: 24px;
     border-radius: 20px;
-    background-image: url(./img/repair.svg);
+    background-image: url(/img/repair.svg);
   }
   .menu__checkstatus {
     position: absolute;
@@ -72,7 +72,7 @@
     left: 264px;
     top: 24px;
     border-radius: 20px;
-    background-image: url(./img/checkstatus.svg);
+    background-image: url(/img/checkstatus.svg);
   }
   .menu__call,
   .menu__chat,

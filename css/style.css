@@ -23,18 +23,13 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  padding: 5px ;
+  padding: 5px;
   margin: auto;
   max-width: 1200px;
   max-height: 600px;
   font-family: 'TT Lakes', 'Arial', sans-serif;
 }
 @media (min-width: 320px) {
-  /*.body {
-    width: 320px;
-    height: 597px;
-    background-color: #f8f8f8;
-  }*/
   .header {
     width: 320px;
     background-color: #ffffff;
@@ -250,11 +245,7 @@ body {
   }
 }
 @media (min-width: 768px) {
-  /*.body {
-    width: 768px;
-    height: 504px;
-    background-color: #f8f8f8;
-  }*/
+
   .header {
     width: 768px;
     background-color: #ffffff;
@@ -506,10 +497,6 @@ body {
   }
 }
 @media (min-width: 1120px) {
-  /*.body {
-    width: 1120px;
-    height: 535px;
-  }*/
   .header {
     width: 1120px;
     height: 130px;

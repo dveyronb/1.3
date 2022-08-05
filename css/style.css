@@ -19,7 +19,7 @@
   src: local('TT Lakes'), url('/1.3/fonts/TTLakes-Regular.woff'),
     url('/1.3/fonts/TTLakes-Regular.ttf'), url('/1.3/fonts/TTLakes-Regular.eot');
 }
-.body {
+body {
   position: relative;
   display: flex;
   flex-direction: column;

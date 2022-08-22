@@ -29,6 +29,9 @@ body {
   max-height: 600px;
   font-family: 'TT Lakes', 'Arial', sans-serif;
 }
+button:hover {
+  cursor: pointer;
+}
 @media (min-width: 320px) {
   .header {
     width: 320px;
@@ -793,6 +796,7 @@ body {
 .read {
   border: none;
 }
+
 .read {
   background-color: rgba(28, 28, 28, 0);
 
